@@ -42,7 +42,7 @@ public class Message : MonoBehaviour {
     {
         if (titleSet.playerName == "" || titleSet.playerName == null)
         {
-            inputName = "水軒大叔";
+            inputName = "匿名玩家";
         }
         else
         {
