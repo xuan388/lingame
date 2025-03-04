@@ -424,4 +424,5 @@ public class Message : MonoBehaviour {
         UpdateTimeAndPushText();
 
     }
+    //尾
 }
